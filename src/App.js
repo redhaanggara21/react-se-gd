@@ -7,15 +7,15 @@ const App = () => {
   return (
     <>
       <SectionWrapper 
-        title="Your partner, Composite Taste Materials Scenarios provide longer-term, multiple futures based on unknown risks and uncertainties"
-        description="delivery, scaleup on minimize risk forecasting."
+        title="Your partner, Composite Taste Materials Scenarios provide longer-term"
+        description="delivery, scaleup plan on minimize risks and uncertainties."
         showBtn
         mockupImg={assets.homeHero}
         banner="banner"
       />
       <SectionWrapper 
         title="Your partner, Composite Taste Materials"
-        description="we provide, the green iceberg lakehouse construction software forecasting"
+        description="we provide, the green iceberg lakehouse construction all the way"
         mockupImg={assets.homeCards}
         reverse
       />
