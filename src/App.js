@@ -7,8 +7,8 @@ const App = () => {
   return (
     <>
       <SectionWrapper 
-        title="Your partner, Composite Taste Materials Forecasting"
-        description="delivery, scaleup on minimize longterm sales forecasting."
+        title="Your partner, Composite Taste Materials Scenarios provide longer-term, multiple futures based on unknown risks and uncertainties"
+        description="delivery, scaleup on minimize risk forecasting."
         showBtn
         mockupImg={assets.homeHero}
         banner="banner"
