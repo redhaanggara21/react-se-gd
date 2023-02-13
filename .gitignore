@@ -15,3 +15,6 @@ yarn-error.log*
 .variables-cicd/
 variables-cicd.txt
 package-lock.json
+package-lock.json
+variables.txt
+variables-ci-cd.txt
